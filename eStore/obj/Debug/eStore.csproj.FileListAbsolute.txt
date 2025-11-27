@@ -1,0 +1,6 @@
+c:\users\hamma\documents\visual studio 2015\Projects\eStore\eStore\bin\eStore.dll.config
+c:\users\hamma\documents\visual studio 2015\Projects\eStore\eStore\bin\eStore.dll
+c:\users\hamma\documents\visual studio 2015\Projects\eStore\eStore\bin\eStore.pdb
+c:\users\hamma\documents\visual studio 2015\Projects\eStore\eStore\obj\Debug\eStore.csprojResolveAssemblyReference.cache
+c:\users\hamma\documents\visual studio 2015\Projects\eStore\eStore\obj\Debug\eStore.dll
+c:\users\hamma\documents\visual studio 2015\Projects\eStore\eStore\obj\Debug\eStore.pdb
